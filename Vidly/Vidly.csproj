@@ -10,5 +10,6 @@
 
   <ItemGroup>
     <Folder Include="Views\Movies\" />
+    <Folder Include="ViewModels\" />
   </ItemGroup>
 </Project>
